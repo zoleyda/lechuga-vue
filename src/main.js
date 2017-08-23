@@ -19,6 +19,7 @@ new Vue({
   data: {
     slides: 3
   },
+  render: h => h(App),
   components: { 
     App,
     'carousel-3d': Carousel3d.Carousel3d,
