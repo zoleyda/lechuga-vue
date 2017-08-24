@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/dollars.png">
+     <!-- <img src="./assets/euros.png">  -->
     <router-view></router-view>
   </div>
 </template>
